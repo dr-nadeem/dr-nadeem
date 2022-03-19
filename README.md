@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dr-nadeem Dr Nadeem Akhtar. I am working as an Assistant Professor of Computer Science & IT at The Islamia University of Bahawalpur.
 - 👀 I’m interested in Machine Learning, Data Analytics, Data Science.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning and Data Analytics applications in Safety-Critical Systems.
 - 📫 Reach me at nadeem.akhtar@iub.edu.pk and nadeem.akhtar.phd@gmail.com
 - Mobile +92 3312116491
 
