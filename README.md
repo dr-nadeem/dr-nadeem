@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dr-nadeem Dr Nadeem Akhtar. I am working as an Assistant Professor of Computer Science & IT at The Islamia University of Bahawalpur.
+- 👋 Hi, I’m @dr-nadeem Dr Nadeem Akhtar. I am working as Associate Professor of Computer Science & IT at The Islamia University of Bahawalpur.
 - 👀 I’m interested in Machine Learning, Data Analytics, Data Science.
 - 🌱 I’m currently learning Neural Networks and Machine Learning using Python.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analytics applications in Safety-Critical Systems.
