@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dr-nadeem Dr Nadeem Akhtar. I am working as Chairman and Associate Professor, Department of Software Engineering, Faculty of Computing, at The Islamia University of Bahawalpur.
-- 👀 I’m interested in Machine Learning, Data Analytics, Data Science.
+- 👋 Hi, I’m @dr-nadeem Dr Nadeem Akhtar. I am working as Chairman and Associate Professor, Department of Software Engineering, Faculty of Computing, at The Islamia University of Bahawalpur, Pakistan.
+- 👀 I’m interested in Software Verification, Software Testing, Software Quality Assurance, Machine Learning, Data Analytics, Data Science.
 - 🌱 I’m currently learning Neural Networks and Machine Learning using Python.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analytics applications in Safety-Critical Systems.
 - 📫 Reach me at nadeem.akhtar@iub.edu.pk and nadeem.akhtar.phd@gmail.com
